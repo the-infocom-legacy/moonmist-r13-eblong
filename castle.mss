@@ -1,0 +1,267 @@
+@center[@b{WELCOME TO TRESYLLIAN CASTLE}]
+
+@center[HOME OF THE TRESYLLIAN FAMILY]@*
+@center[HAUNT OF THE LEGENDARY WHITE LADY]
+
+@newpage
+
+@style[spacing 2]
+
+TRESYLLIAN CASTLE IS ALMOST EIGHT CENTURIES OLD.  AFTER ALL THESE
+YEARS, IT IS STILL INHABITED BY MEMBERS OF THE TRESYLLIAN FAMILY.
+
+Imagine yourself as an eighteenth-century traveller, riding your horse
+across the desolate Cornish moors.  Throughout the long day, you see
+nothing but scrub and bog and craggy rocks looming on the horizon.
+Toward evening, a dank fog rolls in off the coast.  Just as you're
+contemplating the terrors of spending a night on the moor, the stone
+turrets of a castle appear through the mist.  A flag bearing a noble
+coat of arms flutters from the tower.  As you ride closer, light
+blazes from the mullioned windows and a servant runs out to take your
+weary steed.  You have arrived at Tresyllian Castle.
+
+Today, Lord Tresyllian offers thousands of yearly visitors the same
+hospitality family friends have been accorded through the centuries.
+When viewing the castle, it is easy to picture oneself as the historic
+traveller, arriving at last at a civilised place.
+
+@u[The Courtyard]
+
+The stones which pave the Courtyard bear the marks of centuries of
+revelry, warfare, and everyday life.  The crumbling Curtain Wall
+southwest of the gate once surrounded the castle, guarding against
+invaders.  The Tower (also called the Keep) provided living space.
+During the frequent battles, mediaeval maidens huddling in barren
+rooms could hear the shouts of the marauders and the thud of the
+battering ram against the massive wooden door.
+
+Now a luxurious Residential Wing has replaced the eastern section of
+the Wall, and the only sounds you hear are the surging surf in the
+nearby cove and the welcoming voice of your host.
+
+@u[The Foyer]
+
+The decor of the austere, high-ceilinged Foyer reflects the Tresyllian
+family's pride in their Cornish heritage.  Footsteps echo on the
+granite paving stones, carved from the Cornish hills.  The huge
+sculpted bronze doors leading into the Great Hall tell the tale of
+Tristram and Iseult, unhappy bride of the King of Cornwall.  And the
+oil painting near the mahogany coat rack shows Jack the Giant Killer,
+another famous resident of Cornwall, slaying the two-headed giant
+Thunderbore.
+
+The umbrella stand by the front door is actually an elephant's foot.
+When the eccentric Lord Chester Tresyllian was on safari in 1902, a
+large bull elephant trampled the campsite, breaking his Lordship's
+foot.  In revenge, Lord Chester shot the elephant and brought back
+@u[its] foot to hold his umbrellas.
+
+@u[The Drawing Room]
+
+The airy Drawing Room is where the Tresyllian family meets to enjoy
+each other's company as well as that of their guests.  The Dresden
+blue walls and furnishings soothe the senses and complement the
+elegant gold-leafed frames around the many mirrors and paintings.
+
+The spacious feeling is enhanced by the tall French windows, which
+overlook Frobzance Cove to the east and the formal gardens to the
+north.  The Belgian tapestry on the south wall is a treasured family
+heirloom.  Woven of wool and spun gold, it depicts a maiden tending a
+unicorn in a beautiful rose garden.
+
+The satin cushion of the small gold-leafed armchair before the
+fireplace bears the imprint of Queen Victoria, for this is where she
+sat on her visit to Tresyllian Castle in 1867.
+
+@u[The New Great Hall]
+
+In the Middle Ages, entire families lived and slept in a castle's
+great hall.  By the time the Tresyllian Family built their New Great
+Hall, the room was used mostly for holiday entertaining and for
+conducting important business.
+
+When the local villagers arrive for Christmas dinner, they are seated
+around the long oak table in the centre of the room.  A fire is lit in
+the massive fireplace, which is decorated with the Tresyllian coat of
+arms.  The elaborate wood carving surrounding the fireplace extends
+upward through a vast open stairwell to the gallery, where the
+portraits of Tresyllian ancestors gaze down upon the festivities.
+
+The suit of armour standing by the bronze doors was worn by Sir
+Geoffrey Tresyllian at Bosworth Field in 1485.  You might think that a
+knight wearing this armour would feel protected.  However, the metal is
+so heavy that even a strong man had difficulty walking, and fighting
+an enemy or riding a horse was nearly impossible.
+
+@u[The Gallery]
+
+The Gallery is reached by climbing one of the staircases on either
+side of the fireplace.  
+
+The walls of the Gallery display the Tresyllian family portraits.
+Among the somber faces of knights and peers, a lighter note is struck
+by the charming double portrait of Hadley and Zoe
+Tattersall-Tresyllian by the sixteenth century Austrian painter Baron
+Roland Langosy.
+
+High above the fireplace on the south wall, a Gothic window offers a
+dramatic view of the English Channel, with cargo and pleasure boats
+plying the blue-grey waters.
+
+@u[The Sitting Room]
+
+The Sitting Room is a delightful place to spend an idle afternoon.  It
+is filled with warm colors and invitingly comfortable furniture.  The
+yellow silk brocade has covered the walls for over a hundred years,
+and the faded carpet patterned with peacocks and chrysanthemums was
+purchased in India by Lady Gayle Tresyllian in 1912.
+
+A guest at the castle might write a letter at the Louis XV writing
+desk that once belonged to Marie Antoinette.  Or play a romantic
+melody on the grand piano especially built by the Klugenhofer
+Klavierwerke in Germany.  Or curl up with a book on the window seat,
+charmingly decorated with small carved wyverns projecting like
+gargoyles from either end.
+
+@u[The Dining Room]
+
+In the Dining Room, the Tresyllians and their intimate guests gather
+to sample the culinary masterpieces of the family cook.  It is easy to
+imagine the servants waiting in attendance as the family settles into
+the leather-bound chairs around the gleaming mahogany table.  The
+matching sideboard can hold an impressive array of food, along with a
+silver punchbowl on festive occasions.
+
+The room was designed to provide a peaceful and relaxing place to
+dine.  The walls are covered in pale lilac, decorated with plaster
+friezes of cupids at play.  Above the fireplace is a large oil
+painting of fruits and flowers.  The bracketed shelf on the south wall
+holds a collection of porcelain vases, as well as a bronze bust of
+Lord Lionel Tresyllian.
+
+@u[Junction]
+
+This is where the Residential Wing joins the old part of the castle.
+Here you can easily see the double outer wall of the Tower, designed
+to strengthen the castle against attackers.  If invaders did manage to
+break in, they would have to fight their way up a winding stairway
+between the two walls, then cross to the opposite side of the Tower in
+order to reach the next stairway.
+
+Winding stairways take up some of the space between the walls.
+Legends tell of secret passageways in other parts of the Tower.
+
+@u[The Old Great Hall]
+
+Centuries ago, the Old Great Hall was a dark and gloomy place, heated
+by a smoking fire in a vast stone fireplace and lit by small narrow
+windows.  The only furnishings were a large oak table, a few benches,
+and a pair of armchairs for the Lord and Lady.
+
+Today, the Great Hall looks very much the same.  The rough plaster
+walls are empty of decoration, and light still filters in through the
+slit windows.  The main difference is that the original furniture has
+been moved to the New Great Hall.  In its place, Lord Lionel
+Tresyllian has set up a collection of mementoes from his travels to
+the far corners of the globe.  Among these curiosities, be sure to
+look at the following:
+
+@begin[itemize]
+
+@U[An oil painting of the Battle of Blood River] by the famous
+half-Zulu, half-Afrikaner artist, Chaka Pretorius.  In this battle, a
+few hundred Boer settlers circled their wagons on the banks of the
+Ncome River to defend themselves against an army of Zulu warriors
+brandishing spears and clubs.  Earlier, friends and relatives of these
+settlers had been slaughtered in a gruesome massacre.  The present
+band, confronted now by overwhelming odds, might well have suffered
+the same fate.  Instead, on Sunday the 16th December 1838, they fought
+off their attackers, totally defeating the army of the dreaded Zulu
+king known as Dingaan the Vulture.  More than three thousand of his
+highly trained warriors were killed, whilst only three settlers were
+wounded.  The river ran red, giving the battle its name.
+
+@u[An exquisite carving in Chinese jade] of a rather ape-like,
+pre-human skeleton, probably some ancestor of modern man.
+
+@u[A giant oyster shell] from the South Pacific ocean, its interior
+surface mysteriously lacquered jet black.
+
+@u[A papier-mache figure of an Amazon Indian], dressed in the weird
+costume of a tribal witch doctor, performing the elaborate secret
+ritual by which the anaesthetic drug used on the tribal blowgun darts
+is extracted from the rare moonflower plant.
+
+@end[itemize]
+
+@u[The Hedge Maze]
+
+In 1862, the children of Jonathan Tresyllian, 2lst Earl of Frobzance,
+pleaded with their father to let them plan a maze in the garden.  The
+resulting hedge maze is one of the best-known in England.  Today,
+young people (as well as old) still enjoy wandering through the
+clipped passages of the maze.  Hidden in the centre is a beautiful
+salt-air garden with a stone fountain and a pond filled with
+shimmering goldfish.
+
+@newpage
+
+(brochure back)
+
+The best way to approach Cornwall is from the sea, as the first
+traders did thousands of years ago.  Mediterranean travelers, rounding
+Gibraltar and sailing north along the coast, find a peninsula shaped
+like a miniature Italy, tipped on its side and projecting from the
+southwest corner of England into the Atlantic waters.
+
+On the south side, bordering the English Channel, peaceful fishing
+villages lie nestled in sandy coves.  The north shore is another
+world, a place where massive granite cliffs confront the treacherous
+Atlantic, and winds whip across the wild terrain.
+
+It is in Cornwall that King Arthur held court, at a spot now known as
+Camelford.  Across these moors rode Galahad and Lancelot.  On these
+shores Iseult pined for her lost love, Tristram.  And on these mighty
+cliffs Jack killed the giants Cormoran, Galligantus, and Thunderbore.
+
+Many Cornish folk believe in fairies, wishes, charms, and omens.  And
+why not?  In Cornwall, such things do exist.  Gnomes hammer away in
+the tin mines.  Pixies turn the milk sour.  A live fowl hung
+upside-down from the rafters cures children of measles.  When a pin is
+thrown into the Holy Well near Roche on Maundy Thursday, the bubbles
+reveal your fortune.  A ghost coach drawn by headless horses appears
+in Penryn just before Christmas.  If you don't avert your eyes when
+you see it, the coachman will spirit you away.
+
+Cornwall has many interesting old manor houses, a number of them built
+in the Middle Ages.  There are also several castles, mostly in ruins
+but still impressive.  These ancient dwellings have housed
+distinguished Cornish families and witnessed countless historical
+events.  Tresyllian Castle, a mediaeval fortress with a residential
+wing attached, is a fine example of such a home.
+
+Since the thirteenth century, Tresyllian Castle has been inhabited by
+one of Cornwall's most illustrious families.  The oldest parts of the
+castle, the Tower and the Curtain Wall, were built in 1242 by Horace
+of Tresyllian, to defend Frobzance Cove from pirates at sea.  In 1251,
+Horace constructed a Chapel (uniquely situated on the second floor of
+the Tower) for the baptism of his first son and heir.
+
+Tresyllian Castle has its share of lore and legend.  A ghostly White
+Lady is said to haunt the winding stairways and crumbling ramparts of
+the mediaeval castle.  The tale has its origins in the 14th century,
+when Sir Thomas Tresyllian's young bride proved unfaithful and was
+walled up alive as punishment.  Her woeful spirit wanders the Tower on
+moonlit nights.
+
+Tresyllian Castle was renovated in the mid 1500's, when Francis
+Tattersall-Tresyllian, 11th Earl of Frobzance, 3rd Baron Tatdale,
+built a Residential Wing on the site of the eastern part of the
+original Curtain Wall.  The rooms were refurbished in 1867 in
+anticipation of a visit from Queen Victoria.  Her Majesty spent the
+night in the southeast bedchamber of the Residential Wing.
+
+Situated on Frobzance Cove, with a commanding view of the English
+Channel, the castle is a charming blend of historical treasures and
+everyday comforts, carefully maintained for our enjoyment by the noble
+Tresyllian family.

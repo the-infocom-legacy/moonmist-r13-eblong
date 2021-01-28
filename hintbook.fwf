@@ -1,0 +1,832 @@
+@Style[Justification no]
+@Style[Spacing 2 lines]
+
+This booklet is copyrighted and all rights are reserved by Infocom, Inc.
+This documentation may not, in whole or in part, be copied, photocopied,
+reproduced, or reduced to any electronic medium or machine-readable form
+without prior consent, in writing, from Infocom, Inc.  Willful
+violations of the Copyright Law of the United States can result in civil
+damages of up to $50,000 in addition to actual damages, plus criminal
+penalties of up to one year imprisonment and/or a $10,000 fine.
+
+@U[Moonmist] and @U[InvisiClues] are trademarks of Infocom, Inc.
+@U[Suspended] is a registered trademark of Infocom, Inc.
+
+
+(c) 1986 Infocom, Inc. 1 2 3 4 5 6 7 8 9 10 - 89 88 87 86 Printed in USA
+
+
+
+@Unnumbered[Introduction]
+
+
+@B[What are InvisiClues?]
+
+Interactive fiction is partly a story for you to read and partly puzzles
+for you to solve. If you feel stuck on a puzzle at any point in the
+story, you can use this @U[InvisiClues] hint booklet. It will give you
+just enough hints so you can still solve the puzzle on your own. Or, if
+you don't want the thrill of solving it, this booklet will give you the
+whole answer. Either way, you can then continue in the story.
+
+These hints are invisible. Usually the first hint after a question is
+just a nudge in the right direction, and the last one is a full answer.
+You can even learn a little just by reading the questions, but not much.
+Just to keep you guessing, we put in some extra questions and hints that
+have nothing to do with @U[Moonmist].  Beware!
+
+@B[How to use this booklet]
+
+If you feel stuck at some point in @U[Moonmist], find the question that
+sounds the most helpful. Uncap the marker and run it @U[once] over the
+first hint. The writing will appear in a second or two. If you still
+feel stumped after reading this hint and thinking about it, go on to the
+next hint. (Remember to recap the marker when you are done, or it will
+dry out. And by the way, @U[InvisiClues] that you read will begin to
+fade away after about six months.)
+
+Here's a sample question for you to try:
+
+@B[Why is Professor Hergenburger standing on a chair and screaming?]
+@begin(itemize)
+Did you ask anyone about the professor's cats?
+
+Professor Hergenburger is afraid of mice.
+
+There's a mouse nearby, which is frightening the professor.  Get a
+cat to take care of the mouse.
+@end(itemize)
+
+Your marker contains more than enough fluid to develop this entire hint
+booklet. However, if your marker dries out or gets lost, you can buy another
+one for a small price.
+
+After you have finished playing @U[Moonmist], look at the section called
+"Have You Tried To ..."  If you read this section before you finish, it
+may spoil some puzzles for you.
+
+
+TABLE OF CONTENTS
+
+[to go here]
+
+
+
+THE BEGINNING  
+
+How do I get through the gate?
+@begin(itemize)
+No one knows you are there. You need to get their attention.
+
+If you HONK HORN or PUSH EYE, the butler will speak with you.
+
+Or you can just WAIT 10 MINUTES.
+@end(itemize)
+
+
+How do I meet the guests?
+@begin(itemize)
+If you WAIT or try to go somewhere, Tamara will guide you to meet them.
+
+It's good manners to answer their questions.
+
+Then you can ask the guests questions, for example ASK ABOUT THE GHOST
+or MADAM, DESCRIBE THE GHOST.
+@end(itemize)
+
+
+Tamara wants to chat. What should I say?
+@begin(itemize)
+You can ask her about different things.
+
+You can ASK TAMARA ABOUT: JACK, HERSELF, THE GHOST, BOLITHO, DINNER, 
+DEIRDRE, THE WHITE LADY, and so on. Or TAMARA, DESCRIBE THE GHOST.
+@end(itemize)
+
+
+What is Bolitho trying to tell me in my bedroom?
+@begin(itemize)
+He is trying to tell you about the ghost.
+   
+You can BOLITHO, DESCRIBE THE GHOST.
+
+He may give you a device to protect you from hostile "ghosts."
+
+He may also give you a hint for finding the secret passage if you
+haven't already found it.
+@end(itemize)
+
+
+How should I get ready for dinner?
+@begin(itemize)
+You've been driving all day.  You're grimy and rumpled.
+
+You can wash up in your bathroom.
+
+You can look in your luggage and find something fresh to wear.
+
+P.S. You'll get dirty again if you go in the secret passage!
+@end(itemize)
+
+
+I heard a dinner bell. What should I do?
+@begin(itemize)
+Remember what Tamara said about dinner?
+
+She said that dinner is at eight o'clock, or whenever you hear the gong.
+
+It's time to GO TO DINNER.
+@end(itemize)
+
+
+What should I do at dinner?
+@begin(itemize)
+If you didn't do so earlier, ask the guests about the ghost.
+
+At the end of dinner, you listen to the tape recording.
+
+Do as Lionel says: LOOK UNDER THE PUNCHBOWL.
+
+The first clue is a hint about what the treasure is.
+
+After Lionel mentions the treasure, ask Jack about it.
+
+Lionel mentions a second clue; he also says who has it.
+
+ASK JACK (or VIVIEN, depending on the variation) FOR THE SECOND CLUE
+THEN READ THE SECOND CLUE.
+
+The second clue is a hint about how to find the treasure.
+@end(itemize)
+
+
+GETTING AROUND  
+
+Are there any secret passages?
+@begin(itemize)
+In a castle like this, there probably are.
+
+Bolitho may give you a hint.
+
+Bolitho says you can adjust the wall mirror in your bedroom. 
+
+But in fact you can't adjust it. EXAMINE WALL MIRROR.
+
+The mirror is actually a secret door! Push the switch.
+@end(itemize)
+
+
+It's too dark to see! Where can I find a light?
+@begin(itemize)
+One is used by the servants to go to the basement wine cellar.
+
+There's a portable brass lantern in the kitchen.
+@end(itemize)
+
+
+I got caught in someone else's bedroom and now I can't leave!
+@begin(itemize)
+It isn't polite to snoop around other people's bedrooms.
+
+The other guest is probably mad at you for doing so.
+
+You should APOLOGIZE to the guest.
+@end(itemize)
+
+
+Someone is ignoring me. What does this mean?
+@begin(itemize)
+Were you rude to this person earlier?
+
+Maybe you ignored a question, or slapped him or her?
+ 
+You should APOLOGIZE to the guest.
+@end(itemize)
+
+
+Why can't I go somewhere directly by using the GO TO command?
+@begin(itemize)
+If you haven't met all the guests, Tamara won't let you wander off.
+
+Otherwise, it's a puzzle to go to that place. You have to 
+use compass directions (like NORTH or IN) to go there. 
+@end(itemize)
+
+
+I used the GO TO command, but I got only part way there!
+@begin(itemize)
+Maybe you bumped into someone on your way.
+
+Or you might have gotten lost in the dark.
+@end(itemize)
+
+
+AFTER DINNER
+
+Why is Jack troubled by Bolitho's note?
+@begin(itemize)
+Have you read it?
+
+ASK JACK FOR THE BUTLER'S NOTE THEN READ IT.
+
+After dinner, you should find the maid's note then read it.
+
+The maid's note is on the desk in the sitting room.
+@end(itemize)
+
+
+How do I begin my search for the ghost?
+@begin(itemize)
+Bolitho saw the ghost.  Did he tell you about it?
+
+If not, and it's after dinner, you're too late.  Bolitho's gone.
+
+Say YES when Bolitho asks you if you are the well-known American
+detective. Or ASK BUTLER ABOUT GHOST.
+@end(itemize)
+
+
+How do I identify the ghost?
+@begin(itemize)
+There are two ways. The first way is to find 
+the ghost costume and some evidence of who wore it. The second way
+is to catch the ghost on its haunt and unmask it.
+
+Asking others to describe the ghost will give you clues about
+its identity, and may give you an idea where to start your search.
+@end(itemize)
+
+
+How do I follow up on Bolitho's clue?
+@begin(itemize)
+Can you find what the ghost was searching for?
+
+You should go where Bolitho said the ghost was searching, then SEARCH ROOM.
+
+@comment[
+You'll find either a contact lens in the new great hall (in the blue and
+green variations) or a jewel in the drawing room (in the red and yellow
+variations).]
+   
+If you show what you found to other people, you might start to suspect
+someone.
+
+Search the bedroom of the suspected guest for evidence that he or she is
+the person who lost the item that the ghost was looking for.
+Then read one of the next four answers.
+@comment[See E for
+the red variation, F for the yellow variation, G for the blue variation,
+or H for the green variation.]
+
+(RED) The jewel came from the necklace that used to be Deirdre's. Jack has
+the necklace in his bedroom because the police gave it back to him.
+
+(YELLOW) The jewel came from Tamara's earring in the jewelry case in her
+bedroom.
+
+(BLUE) The contact lens is Vivien's. She is missing one from her plastic box
+in the wooden box in her bedroom.
+
+(GREEN) The contact lens is Wendish's. He is missing one from his plastic box
+in the medical kit in his bedroom.
+@end(itemize)
+
+I think I know who the ghost is. How do I prove it?
+@begin(itemize)
+Whoever the ghost is probably has a costume hidden. 
+   
+Or sometimes you can catch the ghost while it's haunting. 
+   
+If you still can't find the ghost costume, then read one of the next
+four answers.
+@comment[see C and D for the red
+variation, E for the yellow variation, F for the blue variation, and G
+for the green variation.]
+
+(RED) If you think Jack is the ghost, ASK BOLITHO TO DESCRIBE THE GHOST and
+think again.
+If you think Deirdre is the ghost, then the costume wouldn't be in the castle;
+you'll have to catch her when she haunts the castle.
+
+(YELLOW) The costume is not in the villain's bedroom. Look in the secret
+passages for it and see the next question.
+
+(BLUE) The costume is hidden in Vivien's wooden box (under other items).
+
+(GREEN) The costume is hidden in Wendish's medical kit (under other items).  
+@end(itemize)
+
+
+I found a ghost costume in the secret passage!
+@begin(itemize)
+The person haunting must have dropped it there.
+
+Probably on purpose -- to frame Iris for the haunting.  See the next
+question.  
+@end(itemize)
+
+
+How do I know who wore the costume that I found?
+@begin(itemize)
+Whoever wore it might have left some evidence in it.
+
+EXAMINE THE WIG.
+
+Whoever wore the costume left some hairs behind!
+
+You can EXAMINE the other guests to see whose hair color is the same.
+@end(itemize)
+
+
+What evidence do I need to arrest the villain?
+@begin(itemize)
+You need to find incriminating evidence, something that shows why
+the villain would commit a crime.
+
+The maid found something incriminating. See the next question.
+@end(itemize)
+
+
+What is the significance of the maid's note?
+@begin(itemize)
+Apparently the maid found something very upsetting.
+
+Whatever she found might incriminate the villain.
+
+The last paragraph of her note is a clue.
+
+For more hints, look in the section for the variation you're playing.
+@end(itemize)
+
+
+The villain is about to shoot me! How do I escape?
+@begin(itemize)
+You can escape into the secret passage, but only if the secret door is open.
+
+Or you can spray the villain with the aerosol device, or hit the
+villain with the wine bottle.
+@end(itemize)
+ 
+
+How do I find the treasure?
+@begin(itemize)
+The first clue (under the punchbowl) is a hint about WHAT you are
+looking for. 
+
+To find WHERE the treasure is, you have to get the second clue from
+Vivien (in the red variation) or Jack (in the yellow, blue, and green
+variations).
+
+The second clue will lead to more clues.
+@end(itemize)
+
+
+AFTER MIDNIGHT
+
+How can I find the ghost?
+@begin(itemize)
+If you are in the yellow variation, read the next hint.  Otherwise, skip it.
+
+You can't. You'll have to find the ghost costume instead.
+
+The ghost haunts after midnight, when other people have gone to bed.
+
+And it haunts only in the secret passages where people usually don't go.
+Read the next hint only if you are in the red variation.
+
+The ghost enters the castle on its way to the secret passages.
+
+The ghost enters through the priest hole and goes backstairs.
+@end(itemize)   
+
+
+The ghost never showed up! Why?
+@begin(itemize)
+If you are playing the yellow variation, read the next hint.
+Otherwise skip over it.
+
+The ghost never haunts in the yellow variation.
+
+You may have missed the ghost. Try waiting at your entrance or the 
+entrance of the presumed ghost.
+
+You may have spooked the ghost. If you disturbed the costume or blowgun,
+or left the ghost's secret entrance open, the ghost won't haunt.
+
+If you already arrested the person who was the ghost, 
+now you need to find the ghost costume.
+@end(itemize)
+
+
+Egads!! The ghost is trying to kill me!
+@begin(itemize)
+Follow your instincts: fight or flee.
+
+Maybe Bolitho gave you something to stop threats.
+
+Bolitho tried to give you an aerosol device. If you don't have it,
+you can flee to the kitchen and get it.
+Or you can use the wine bottle as a weapon.
+
+If you have the aerosol device, SPRAY THE GHOST WITH THE DEVICE.
+
+Now you can REMOVE THE GHOST COSTUME and identify the ghost.
+@end(itemize)
+
+
+Egads!! I found the ghost, but it runs away!
+@begin(itemize)
+The ghost isn't threatening you, so don't scare her away.
+
+Be nice to the ghost.
+
+Talking to the ghost is one way to get her to open up.
+@end(itemize)
+
+
+The ghost just "slimed" me!!! How do I catch it?
+@begin(itemize)
+First use your negative ionizer backpack to trap the ghost.
+
+Now lower the ghost into your portable laser confinement system. 
+
+Stop playing @U[Ghostbusters] from Activision and play @U[Moonmist]!
+The ghost in @U[Moonmist] doesn't "slime" people.
+@end(itemize)
+ 
+GENERAL QUESTIONS 
+
+How can I tell if a person is left- or right-handed?
+@begin(itemize)
+People tend to use their dominant hand without thinking.
+
+Throw something at a person. They'll catch it with their dominant hand.
+@end(itemize)
+
+
+How did the ghost float over Tamara's bed?
+@begin(itemize)
+There is a physical reason for it. 
+
+One room is directly over Tamara's.
+
+Examine and move objects in the "lumber" room.
+
+If you move the chest and lift the handle you can look into Tamara's
+bedroom.  And someone in her bed would see your face!
+@end(itemize)
+
+
+How do I protect Tamara from the vampire?
+@begin(itemize)
+Did you find the coffin hidden in the secret tomb?
+
+You'll need a wooden cross from the chapel and garlic from the kitchen.
+
+Find a sharp stick in the lumber room and drive it through the vampire's 
+heart when it returns to sleep in the coffin at dawn.
+
+What vampire? There's no vampire in @U[Moonmist].
+@end(itemize)
+
+
+Who was the White Lady?
+@begin(itemize)
+Ask someone about her.
+
+The history book in the library will tell you more about her.
+@end(itemize)
+
+
+Iris is broken. How do I fix her?
+@begin(itemize)
+Have Waldo replace the faulty chip.
+
+If that doesn't work, then send her to robot repair.
+
+Wait a minute! Why are you looking up @U[Suspended] questions in the 
+@U[Moonmist] hintbook?
+@end(itemize)
+ 
+
+RED VARIATION 
+
+What is the significance of the maid's note?
+@begin(itemize)
+First read the hints for this same question in the section called "After Dinner."
+
+Look in the keyholes of bedroom doors.
+
+Jack's keyhole is the most important. You'll see a microphone in the door.
+
+Move the wyvern to uncover the secret tape recorder. Play the tape.
+@end(itemize)
+
+
+I'm stuck on the second clue. Help!
+@begin(itemize)
+The "very first lass" in the Bible was Eve.
+
+There's a stained "glass" window in the chapel.
+
+On the "forbidden fruit" (apple) is the third clue.
+@end(itemize)
+
+
+What does the third clue mean?
+@begin(itemize)
+You need to go to the place mentioned in the clue.
+
+"Bower" is another word for garden.
+
+GO TO THE BOWER. (the garden in the hedge maze)
+
+The clue is in the dirt in the garden.
+@end(itemize)
+
+
+Help me figure out the fourth clue.
+@begin(itemize)
+What would you need if you went into the rain?
+
+The clues are "rain" and "cain."
+
+There's an umbrella stand in the foyer.
+
+"Cain" is a pun for the cane in the umbrella stand.
+@end(itemize)
+
+
+I have what the fourth clue led me to, but it isn't a treasure.
+@begin(itemize)
+Examine the item you found there.
+
+The treasure is disguised.
+
+REMOVE THE PAINT to find the real treasure.
+@end(itemize)
+
+
+YELLOW VARIATION  
+
+What is the significance of the maid's note?
+@begin(itemize)
+First read the hints for this same question in the section called "After Dinner."
+
+Search people's bedrooms, particularly under furniture.
+
+Remove the journal from under Tammy's bed, then look there again.
+
+Under Tammy's bed is a receipt from a pet store.
+@end(itemize)
+
+
+Help! What is the meaning of the second clue?
+@begin(itemize)
+What word rhymes with "tell" and is something you can hear?
+
+A bell. Find a bell and examine it.
+(The quote is from "The Bells" by Edgar Allan Poe.)
+
+The bell on the fighting deck has the third clue in it.
+@end(itemize)
+
+
+Help me figure out the third clue.
+@begin(itemize)
+Somewhere in the castle is a "tomb."
+(The quote is from "Annabel Lee" by Edgar Allan Poe.)
+
+Go to the dungeon, then ENTER THE IRON MAIDEN to get to the secret tomb.
+
+OPEN THE COFFIN to find the fourth clue.
+@end(itemize)
+
+
+What does the fourth clue mean?
+@begin(itemize)
+Do you know the story "A Cask of Amontillado" by Edgar Allan Poe?
+
+It tells the tale of a man who is buried alive behind a brick wall, deep
+in the catacombs of a wine cellar.
+
+Go to the basement, where the wine is kept, and MOVE THE BRICKS.
+
+Enter the hole that you opened up.
+@end(itemize)
+
+
+I found an item that doesn't look like treasure. Where's the real treasure?
+@begin(itemize)
+EXAMINE THE SKELETON.
+
+Take the black pearl necklace.
+@end(itemize)
+
+
+BLUE VARIATION 
+
+What is the significance of the maid's note?
+@begin(itemize)
+First read the hints for this same question in the section called "After Dinner."
+
+You are looking for someone's diary.
+
+In Vivien's wooden box is her diary. (It's under her plastic box.)
+Reading her diary may not be polite, but it's important!
+@end(itemize)
+
+
+What does the second clue mean?
+@begin(itemize)
+Try to fill in the blanks of the second clue with words that make the
+poem rhyme.  Then find objects that match the words.
+
+For the first blank:  What rhymes with "wrong" and is often mentioned
+with wine ("grape") and women ("wench")?
+
+The word for the first blank is "song."  Where might you find a song
+in the castle?
+
+Read the music on the piano.
+
+For the second blank: What rhymes with "laden"?  (Remember that the
+poem is about three fellows arguing about "wine, women, and song.")
+
+The word for the second blank is "maiden."  Where in the castle is a
+maiden?
+
+It's not the iron maiden in the dungeon.
+
+Find the maiden mentioned in the tourist brochure and examine it.
+
+For the last blank: What rhymes with "fine"? (Remember what the three
+fellows are arguing about!)
+
+The word for the last blank is "wine."  Where in the castle will you
+find wine?
+
+Examine the wine bottle in the basement. 
+
+Put together the parts of words marked with a star.
+
+They spell "SUIT ARMOUR."  Look in the tourist brochure to find it.
+@end(itemize)
+
+
+I'm stuck on the third clue. Help!
+@begin(itemize)
+Put the parts of
+words from the second clue into the blanks in a different order.
+
+The order is ARM, SUIT and OUR.
+
+What "alarm" has "suite" (sweet) tones that "clamour"?
+
+The bell on the fighting deck is an alarm that clamours.
+
+LOOK INSIDE THE BELL to find the treasure.
+@end(itemize)
+
+
+Help! What is the meaning of the fourth clue?
+@begin(itemize)
+Try to climb up one of the fireplaces in the castle.
+
+However, you can't go back down the same way. Try to find 
+a different flue to go down.
+
+However, if you go down you'll land in a fire and ...
+
+You've been burned. There is no fourth clue in the blue variation.   
+@end(itemize)
+
+
+I found an item that doesn't look like treasure!
+@begin(itemize)
+Why are you reading this clue? 
+
+The skull is obviously the treasure.
+@end(itemize)
+
+
+GREEN VARIATION 
+
+What is the significance of the maid's note?
+@begin(itemize)
+First read the hints for this same question in the section called "After Dinner."
+
+You are looking for something written. The library would be a good place to
+start. 
+
+In the bookcase is Wendish's lab notebook. It 
+reveals Wendish's fiendish ideas.  
+@end(itemize)
+
+
+Help me figure out the second clue.
+@begin(itemize)
+You are doing two things:  finding the next clue (by finding an "eye"
+that doesn't see) and beginning to spell a word which starts with the
+letter "I."
+
+The blind "eye" you are looking for is in the game room. 
+
+The third clue is behind the rhino's glass eye.
+@end(itemize)
+
+
+Help! What is the meaning of the third clue?
+@begin(itemize)
+The second letter is "N" (in "never," but not in "ever"). 
+
+The next clue is at the dead "end" in the secret (hidden) passages.
+You can find it on the complete map.
+
+You can see the clue (but not reach it) if you SEARCH THE WALL
+in the gallery and then look through the peephole.
+@end(itemize)
+
+
+I'm stuck on the fourth clue. Help!
+@begin(itemize)
+The third letter is "K" (a silent letter in "knight").
+
+Putting the three letters together spells "ink."  Find some ink.
+
+There is an inkwell in the office.
+@end(itemize)
+
+
+I found an item that doesn't look like treasure!
+@begin(itemize)
+The treasure isn't the inkwell.
+
+It's the "ink" inside the inkwell - the Moonmist drug. 
+@end(itemize)
+
+
+SECRET PASSAGE ENTRANCES  
+
+Don't read this list unless you are really stuck or really curious. Some
+exits (not listed) open only from the inside.
+
+SECRET ENTRANCE			HOW TO OPEN IT
+
+---------------			--------------
+
+Your Bedroom			EXAMINE WALL MIRROR. PUSH SWITCH
+
+Vivien's Bedroom		MOVE FIGURINE
+
+Wendish's Bedroom		MOVE SCONCE
+
+Ian's Bedroom			MOVE ANDIRONS
+
+Library				SEARCH BOOKCASE. GET HISTORY BOOK
+
+Tamara's Bedroom		MOVE POST
+
+Jack's Bedroom			MOVE TELESCOPE
+
+Sitting Room (one-way)		SIT ON WINDOW SEAT. MOVE WYVERN
+
+Drawing Room			LOOK BEHIND TAPESTRY. OPEN SECRET DOOR
+
+
+
+HAVE YOU TRIED TO ...
+@begin(itemize)
+
+read the magazine in the lumber room? (especially in the blue
+variation)
+
+kiss Iris if you are playing as a man, or kiss Jack or Ian if
+you are playing as a woman?
+
+drink Moonmist? (in the green variation only)
+
+take Dr. Wendish's mustache? (in the green variation)
+
+show the villain the incriminating evidence in his or her own bedroom,
+before or after you have taken the blowgun? (in the green and blue
+variations only)
+
+play the secret tape in Jack's door with Tamara following you? (in
+the red variation)
+
+ring the bell on the fighting deck after dinner and then wait?
+
+pray?
+
+shoot billiards in the game room?
+
+play the piano?
+
+ask the other guests to play the piano?
+
+turn on the computer in the office?
+
+ASK VIVIEN ABOUT TAMMY (in the blue variation) or ASK TAMMY ABOUT
+IRIS (in the yellow variation)?
+@end(itemize)
